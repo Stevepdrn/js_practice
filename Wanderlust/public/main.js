@@ -80,16 +80,3 @@ const executeSearch = () => {
 
 $submit.click(executeSearch)
 
-
-
-/*
-Fetch more than 4 venues and randomize which ones are added to the page.
-
-
-Include additional information about the weather.
-
-Include additional information about each venue from the response.
-For a real challenge, try fetching venue photos! 
-This will require an additional request for venue details for each venue, 
-as the photo information is not returned in the initial request.
- */
